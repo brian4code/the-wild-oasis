@@ -14,4 +14,4 @@ Deployed to Netlify
 
 Visit the link to see the rendered website:
 
-[https://the-wild-oasis-brian4code.netlify.app/](https://the-wild-oasis-brian4code.netlify.app/bookings)
+[https://the-wild-oasis-brian4code.netlify.app/](https://the-wild-oasis-brian4code.netlify.app/)
