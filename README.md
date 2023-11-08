@@ -6,7 +6,7 @@ A site built with React with below features:
 
 - **Supabase** for backend database and user authentication
 - **React Query** to manage remote state for CRUD operations
-- **Context API** to manage UI state and to manage dark mode, modal, menu
+- **Context API** to manage UI state and to manage dark mode, modal display, menu display
 - **React Hook Form** for input form management
 - **Styled Components** to style each component independently
 
